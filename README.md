@@ -1,6 +1,6 @@
-# Operative Systems H1
+# <p align="center"> Operative Systems H1 </p>
 
-Change the screen color
+<p align="center"> Change the screen color </p>
 
 The goal of the homework is to modify the xv6 system to support changing the font and background color for the entire screen. Completed homework should contain the following functionalities:
 
